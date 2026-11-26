@@ -1,9 +1,9 @@
 id_filme,titulo,ano_lancamento,genero,duracao_min,rating_imdb,orcamento_milhoes,data_lancamento,bilheteria_dolares,nome_pais,continente,idioma_principal,moeda,capital,nome_produtora,ano_fundacao,pais_sede
 1,The Godfather,1972,Crime,175,9.2,7.2,1972-03-24,246000000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",Paramount Pictures,1912.0,Estados Unidos
 2,The Godfather Part II,1974,Crime,202,9.0,13.0,1974-12-24,93000000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",Paramount Pictures,1912.0,Estados Unidos
-3,The Dark Kight,2008,Action,152,9.1,185.0,2008-07-18,1005000000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,","Warner Bros,",1923.0,Estados Unidos
+3,The Dark Knight,2008,Action,152,9.1,185.0,2008-07-18,1005000000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,","Warner Bros,",1923.0,Estados Unidos
 4,The Dark Knight Rises,2012,Action,165,8.4,250.0,2012-07-20,1081000000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,","Warner Bros,",1923.0,Estados Unidos
-5,Pulp Fction,1994,Crime,154,8.9,8.0,1994-10-14,213900000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",Miramax Films,1979.0,Estados Unidos
+5,Pulp Fiction,1994,Crime,154,8.9,8.0,1994-10-14,213900000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",Miramax Films,1979.0,Estados Unidos
 6,Schindlers List,1993,Drama,195,8.9,22.0,1994-02-04,322200000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",Universal Pictures,1912.0,Estados Unidos
 7,Inception,2010,Action,148,8.8,160.0,2010-07-16,836800000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,","Warner Bros,",1923.0,Estados Unidos
 8,Fight Club,1999,Drama,139,8.8,63.0,1999-10-15,101200000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",20th Century Fox,1935.0,estados unidos
@@ -24,7 +24,7 @@ id_filme,titulo,ano_lancamento,genero,duracao_min,rating_imdb,orcamento_milhoes,
 23,The Lion King,1994,Animation,88,8.5,45.0,1994-06-24,968500000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",Walt Disney Pictures,1983.0,Estados Unidos
 24,Titanic,1997,Romance,195,7.8,200.0,1997-12-19,2201000000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",20th Century Studios,2020.0,Estados Unidos
 25,Avatar,2009,Action,162,7.8,237.0,2009-12-18,2847000000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",20th Century Studios,2020.0,Estados Unidos
-26,Avenger: Endgame,2019,Action,181,8.4,356.0,2019-04-26,2798000000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",Marvel Studios,2008.0,Estados Unidos
+26,Avengers: Endgame,2019,Action,181,8.4,356.0,2019-04-26,2798000000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",Marvel Studios,2008.0,Estados Unidos
 27,Avengers: Infinity War,2018,Action,149,8.4,316.0,2018-04-27,2048000000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",Marvel Studios,2008.0,Estados Unidos
 28,Jurassic Park,1993,Adventure,127,8.2,63.0,1993-06-11,1040000000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",Universal Pictures,1912.0,Estados Unidos
 29,The Terminator,1984,Action,107,8.1,6.4,1984-10-26,78300000.0,Estados Unidos,América do Norte,Inglês,Dólar Americano,"Washington D,C,",Hemdale Film,1967.0,Reino Unido
